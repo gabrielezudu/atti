@@ -54,7 +54,7 @@ return "<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01//EN' 'http://www.w3.org/TR/
 
 </div>
 <!-- Trigger the modal with a button -->
-  <button type='button' class='btn btn-info btn-lg' data-toggle='modal' data-target='#myModal1'>Open Modal1</button>
+  <button type='button' class='btn btn-info btn-lg' data-toggle='modal' data-target='#myModal1'>Login Modal</button>
 
   <!-- Modal -->
   <div class='modal fade in' id='myModal1' role='dialog'>
